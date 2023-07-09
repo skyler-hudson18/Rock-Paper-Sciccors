@@ -1,0 +1,10 @@
+User can choose between rock, paper, or sciccors
+Computer chooses between rock, paper, or sciccors
+Wait 3 seconds
+If the choices are the same, it's a tie (so both user and computer gets a point)
+if the user wins, they get a point
+if the computer wins, they get a point
+If at the end of 5 rounds the user has more points, they win
+If at the end of 5 rounds the computer has more points, they win
+display the final score at the end of the game
+ask if they want to play again, if yes reset everything. if no, end the game
